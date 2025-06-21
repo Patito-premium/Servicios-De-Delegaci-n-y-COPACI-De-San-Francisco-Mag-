@@ -6,12 +6,12 @@ body {
 #encabezado {
     text-align: center;
     width: 90%;
-    font-family: "Archivo Black", sans-serif;
+    font-family: 'Archivo Black', sans-serif;
 }
 
 #boton a {
     display: block;
-    font-family: "Archivo Black", sans-serif;
+    font-family: 'Archivo Black', sans-serif;
     background-color: #C3DEFF;
     color: black;
     padding: 5px 10px;
@@ -23,7 +23,7 @@ body {
 
 #contenido {
     text-align: left;
-    font-family: "Times New Roman", serif;
+    font-family: 'Times New Roman', serif;
 }
 
 #agua {
@@ -31,7 +31,7 @@ body {
 }
 
 p {
-    font-family: "Times New Roman", serif;
+    font-family: 'Times New Roman', serif;
     text-align: center;
 }
 
@@ -40,5 +40,6 @@ p {
 }
 
 h2 {
-    font-family: "Public Sans", sans-serif;
+    font-family: 'Public Sans', sans-serif;
 }
+  
